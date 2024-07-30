@@ -1,0 +1,26 @@
+{
+  "name": "ahmad-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ahmadkhaan08/ahmad-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ahmad Khan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Ahmadkhaan08/ahmad-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Ahmadkhaan08/ahmad-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
